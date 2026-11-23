@@ -21,9 +21,6 @@ I work across data engineering, analytics, BI, and business analysis, with nearl
 | [Intelligent ticket classifier](https://github.com/gparthee/llm-intelligent-classifier) | Python + FastAPI classifier with an offline baseline and optional LLM integration |
 | [SQL financial reconciliation](https://github.com/gparthee/sql-financial-reconciliation) | Transaction matching, discrepancy detection, and reconciliation controls |
 
-> **Portfolio note:** These are independent demonstration projects using synthetic data, not production deployments or employer work. Each project repository documents its implementation and validation status. Project links will become active as the repositories are published.
-
-### 📫 Connect
 
 - [LinkedIn](https://www.linkedin.com/in/partheereddy)
 - [Email](mailto:gparthee10@gmail.com)
