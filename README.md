@@ -2,9 +2,9 @@
 ### Data Engineering · Analytics Engineering · Business Intelligence
 
 📍 **Denver, Colorado** · Open to relocation, hybrid and remote opportunities  
-✉️ **[Email](mailto:gparthee10@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/partheereddy)** · **[Portfolio website source](https://github.com/gparthee/gparthee/tree/main/docs)**
+✉️ **[Email](mailto:gparthee10@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/partheereddy)**
 
-I build data pipelines, reliable reporting models, decision-ready dashboards and practical AI integrations. My professional background spans **financial services, healthcare and consulting**, with nearly five years of experience described in my [resume](https://github.com/gparthee/gparthee/blob/main/docs/resume.html).
+I build data pipelines, reliable reporting models, decision-ready dashboards and practical AI integrations. My professional background spans **financial services, healthcare and consulting**, with nearly five years of experience spanning the roles listed below.
 
 **Core toolkit:** SQL · Python · PySpark · Snowflake · Databricks · BigQuery · dbt · Airflow · AWS · Azure · GCP · Power BI · Tableau · FastAPI
 
@@ -41,4 +41,3 @@ I'm interested in roles at the intersection of **data engineering, analytics eng
 
 **[Email me](mailto:gparthee10@gmail.com)** · **[Connect on LinkedIn](https://www.linkedin.com/in/partheereddy)**
 
-*The portfolio website HTML and resume are published in this repository's [`docs/` folder](https://github.com/gparthee/gparthee/tree/main/docs); GitHub Pages must be enabled in repository settings before the website has a public URL.*
