@@ -4,7 +4,7 @@
 📍 **Denver, Colorado** · Open to relocation, hybrid and remote opportunities  
 ✉️ **[Email](mailto:gparthee10@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/partheereddy)**
 
-I build data pipelines, reliable reporting models, decision-ready dashboards and practical AI integrations. My professional background spans **financial services, healthcare and consulting**, with nearly five years of experience spanning the roles listed below.
+I build data pipelines, reliable reporting models, decision-ready dashboards and practical AI integrations. I have nearly five years of experience across **financial services, healthcare and consulting**, including the roles listed below.
 
 **Core toolkit:** SQL · Python · PySpark · Snowflake · Databricks · BigQuery · dbt · Airflow · AWS · Azure · GCP · Power BI · Tableau · FastAPI
 
